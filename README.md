@@ -1,5 +1,7 @@
 ### very exciting :pig2::zap: :new_zealand:
 
+sometimes I make useful things, but mostly not.
+
 <!--
 **kelvinperrie/kelvinperrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
