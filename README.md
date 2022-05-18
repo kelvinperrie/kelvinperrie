@@ -1,8 +1,16 @@
-### very exciting :pig2::zap: :new_zealand:
+### very exciting :pig2::pig2::pig2::pig2: 
 
 sometimes I make useful things, but mostly not.
 
 <!--
+:pig2::black_large_square::black_large_square::black_large_square::pig2::black_large_square::pig2::pig2::pig2:
+
+
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | :pig2: | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> |
+
+
 **kelvinperrie/kelvinperrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
