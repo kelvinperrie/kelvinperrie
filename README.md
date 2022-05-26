@@ -68,6 +68,60 @@ Sometimes I make useful things, but mostly not.
         <td>It just makes neon text.</td>
         <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/neon.gif" alt="gif of neon in action"></td>
     </tr>
+    <tr>
+        <td><a href="https://simadvisor.netlify.app/demo.html">Sim Advisor</a>
+        <br/>(<a href="https://github.com/kelvinperrie/SimAdvisor">repo</a>)
+        </td>
+        <td>FOR DECADES MANKIND HAS YEARNED FOR A RETURN TO A SIMPLER TIME, WHERE THE ADVISORS FROM SIMCITY 2000 WERE AVAILABLE TO GUIDE US THROUGH THIS HELLSCAPE OF A WORLD. Well, yearn no more</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/simadvisor.png" alt="pic of sim advisor output"></td>
+    </tr>
+    <tr>
+        <td><a href="https://magiceight.netlify.app/">Magic 8 ball</a>
+        <br/>(<a href="https://github.com/kelvinperrie/MagicEight">repo</a>)
+        </td>
+        <td>A magic 8 ball to predict the future, made using jquery. The images are all a bit sloppy and nothing is quite lined up but who could have predicted that?</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/Magic8BallExample2.gif" alt="gif of magic 8 ball"></td>
+    </tr>
+    <tr>
+        <td><a href="https://delaytext.netlify.app/demo.html">Delay Text</a>
+        <br/>(<a href="https://github.com/kelvinperrie/DelayText">repo</a>)
+        </td>
+        <td>JQuery plugin to display text with a delay between words or characters</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/delaytext.gif" alt="gif of delay text"></td>
+    </tr>
+    <tr>
+        <td><a href="https://jqueryscrolly.netlify.app/examples/example1.html">Jquery scrolly</a>
+        <br/>(<a href="https://github.com/kelvinperrie/jquery-scrolly">repo</a>)
+        </td>
+        <td>This will make horizontally scrolling backgrounds on webpages.</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/jquery-scrolly.gif" alt="gif of jquery scrolly"></td>
+    </tr>    
+    <tr>
+        <td><a href="https://cursorattack.netlify.app/src/everything.html">Cursor attack</a>
+        <br/>(<a href="https://github.com/kelvinperrie/CursorAttack">repo</a>)
+        </td>
+        <td>A badly drawn ufo that follows the cursor around the screen shooting badly drawn flames</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/cursorAttack1.gif" alt="gif of cursor attack"></td>
+    </tr>
+    <tr>
+        <td><a href="https://progressbars.netlify.app/examples/examples.html">ProgressBar</a>
+        <br/>(<a href="https://github.com/kelvinperrie/ProgressBar">repo</a>)
+        </td>
+        <td>This provides a jquery plugin for making vertical progress bars out of images. Once the progress bar has been created you can interact with it to set the current percentage as required.</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/progressbar.gif" alt="gif of progressbar"></td>
+    </tr>
+    <tr>
+        <td><a href="https://savageloaders.netlify.app/examples/examples.html">SavageLoaders</a>
+        <br/>(<a href="https://github.com/kelvinperrie/SavageLoaders">repo</a>)
+        </td>
+        <td>Oooh yeah! Loading animations are boring. When you're waiting for something to load you need to be looking at an interesting animation. Here are some loading animations built in jquery/css using the head of the legendary Randy Macho Man Savage.</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/savageloaders.gif" alt="gif of savageloaders"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>This takes forever. Maybe I'll put some more stuff here later.</td>
+        <td></td>
+    </tr>
 </table>
 
 
