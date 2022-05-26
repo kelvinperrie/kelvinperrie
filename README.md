@@ -1,31 +1,24 @@
-### very exciting :pig2::pig2::pig2::pig2: 
+### very exciting 
 
-sometimes I make useful things, but mostly not.
+Sometimes I make useful things, but mostly not.
 
-<!--
+:pig2::pig2::pig2::pig2: :pig2::pig2::pig2::pig2: :pig2::pig2::pig2::pig2: 
 
 <table align="center">
     <tr>
-        <td></td>
-        <td align="center"><img src="https://raw.githubusercontent.com/gist/kelvinperrie/f4abc90bdb1c1930d5f7cbbe0b12664d/raw/96622f5dea2e2d7a9c93a044bb67b1941612dc2e/Bananimate%20-%20Animation%20Queue.gif" alt="some text"></td>
-        <td align="center">Some other text</td>
-        <td align="center">More text</td>
+        <td><a target="_blank" href="https://birdsounds.nz">birdsounds.nz</a></td>
+        <td>A website to listen to NZ bird calls, and combine them to create background noise while working.</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/birdsoundsnz.gif" alt="gif of birdsounds.nz website"></td>
     </tr>
     <tr>
-        <td></td>
-        <td align="center"><img src="https://raw.githubusercontent.com/gist/kelvinperrie/f4abc90bdb1c1930d5f7cbbe0b12664d/raw/96622f5dea2e2d7a9c93a044bb67b1941612dc2e/Bananimate%20-%20Animation%20Queue.gif" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
+        <td><a target="_blank" href="https://whatsmycrab.co.nz">whatsmycrab.co.nz</a></td>
+        <td>A site to help identify NZ crabs by answering questions about the crab (mostly morphology/what the crab looks like)</td>
+        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/whatsmycrab.gif" alt="gif of whatsmycrab.co.nz website"></td>
     </tr>
 </table>
 
-| []() | []() | []() |
-| ------- | --- | --- |
-| Something here to describe the stupid thing | :pig2: | <img src="https://raw.githubusercontent.com/gist/kelvinperrie/f4abc90bdb1c1930d5f7cbbe0b12664d/raw/96622f5dea2e2d7a9c93a044bb67b1941612dc2e/Bananimate%20-%20Animation%20Queue.gif" /> |
-| Something here to describe the stupid thing | :pig2: | <img src="https://raw.githubusercontent.com/gist/kelvinperrie/f4abc90bdb1c1930d5f7cbbe0b12664d/raw/96622f5dea2e2d7a9c93a044bb67b1941612dc2e/Bananimate%20-%20Animation%20Queue.gif" /> |
 
-
-
+<!--
 
 **kelvinperrie/kelvinperrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
