@@ -23,21 +23,21 @@ Sometimes I make useful things, but mostly not.
         <td><a target="_blank" href="https://beebuzz.netlify.app/">buzz bee buzz</a>
         </br>(<a href="https://github.com/kelvinperrie/buzzbeebuzz">repo</a>)
         </td>
-        <td>A breakthrough website that can grind your browser to a halt using the power of poorly drawn bees. Do you dare click the 'new bee' button a lot of times! (probably don't)</td>
+        <td>Bees in the browser. New and improved and somewhat less grindy.</td>
         <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/buzzbeebuzz.gif" alt="gif of buzzbeebuzz"></td>
     </tr>
     <tr>
         <td>Path finding experiment
             <br/>(<a href="https://github.com/kelvinperrie/Path-Finding-Play">repo</a>)
         </td>
-        <td>Proof of concept for path finding through the hospital; displays on google maps. Doesn't really work anymore because google changed the way the API works and want you to put a credit card to use it. Thanks google.</td>
+        <td>Proof of concept for path finding through the hospital; displays on google maps. Maps are bit crap because google changed some stuff. Thanks google.</td>
         <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/PathFinding-Example1.gif" alt="gif of pathfind experiment"></td>
     </tr>
     <tr>
         <td><a href="https://multitracks.netlify.app/">Tracks</a>
             <br/>(<a href="https://github.com/kelvinperrie/Tracks">repo</a>)
         </td>
-        <td>A puzzle game where you have to join up tracks. Everyone loves trains right?</td>
+        <td>A puzzle game where you have to join up tracks.</td>
         <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/tracks-example01.gif" alt="gif of tracks game"></td>
     </tr>
     <tr>
