@@ -27,11 +27,11 @@ Sometimes I make useful things, but mostly not.
         <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/buzzbeebuzz.gif" alt="gif of buzzbeebuzz"></td>
     </tr>
     <tr>
-        <td>Path finding experiment
-            <br/>(<a href="https://github.com/kelvinperrie/Path-Finding-Play">repo</a>)
+        <td><a href="https://pathfindingpoc.vercel.app/viewer.html">Path finding experiment</a>
+            <br/>(<a href="https://github.com/kelvinperrie/pathfinding2">repo</a>)
         </td>
-        <td>Proof of concept for path finding through the hospital; displays on google maps. Maps are bit crap because google changed some stuff. Thanks google.</td>
-        <td align="center"><img src="https://github.com/kelvinperrie/kelvinperrie/blob/main/images/PathFinding-Example1.gif" alt="gif of pathfind experiment"></td>
+        <td>Proof of concept for path finding through the hospital;</td>
+        <td align="center"><img src="https://raw.githubusercontent.com/kelvinperrie/pathfinding2/main/examples/pathfinding-example01.gif" alt="gif of pathfind experiment"></td>
     </tr>
     <tr>
         <td><a href="https://multitracks.netlify.app/">Tracks</a>
